@@ -39,7 +39,7 @@
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <mysql-connector-java.version>5.1.48</mysql-connector-java.version>
         <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
-        <mybatis.version>3.5.4</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
 
         <!-- Logging -->
         <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
