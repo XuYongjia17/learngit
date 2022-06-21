@@ -37,7 +37,7 @@
         <!-- https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc -->
         <sqlite-jdbc.version>3.30.1</sqlite-jdbc.version>
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-        <mysql-connector-java.version>5.1.48</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
         <mybatis.version>3.5.4</mybatis.version>
 
