@@ -49,7 +49,7 @@
 
         <!-- Spring -->
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
-        <spring.version>5.2.6.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
 
